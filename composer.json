@@ -1,0 +1,24 @@
+{
+  "name": "orvice/google-custom-search-api",
+  "description": "Google Custom Search api",
+  "authors": [
+    {
+      "name": "Xiaobin",
+      "email": "xb@orx.me"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~5.0"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "files": [
+    ],
+    "psr-0": {
+      "Google\\Api\\": "src/Google/Api"
+    }
+  }
+}
