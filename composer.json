@@ -13,10 +13,6 @@
     "phpunit/phpunit": "~5.0"
   },
   "autoload": {
-    "classmap": [
-    ],
-    "files": [
-    ],
     "psr-0": {
       "Google\\Api\\": "src/Google/Api"
     }
